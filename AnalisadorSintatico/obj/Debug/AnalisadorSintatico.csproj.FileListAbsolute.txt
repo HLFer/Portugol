@@ -1,0 +1,33 @@
+D:\Google Drive\PUC Minas\Compiladores\Aulas\Aula 11 - Análise Sintática - Implementação\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe.config
+D:\Google Drive\PUC Minas\Compiladores\Aulas\Aula 11 - Análise Sintática - Implementação\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe
+D:\Google Drive\PUC Minas\Compiladores\Aulas\Aula 11 - Análise Sintática - Implementação\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.pdb
+D:\Google Drive\PUC Minas\Compiladores\Aulas\Aula 11 - Análise Sintática - Implementação\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csprojResolveAssemblyReference.cache
+D:\Google Drive\PUC Minas\Compiladores\Aulas\Aula 11 - Análise Sintática - Implementação\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.exe
+D:\Google Drive\PUC Minas\Compiladores\Aulas\Aula 11 - Análise Sintática - Implementação\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.pdb
+C:\Users\Windows\Desktop\Nova pasta (3)\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe.config
+C:\Users\Windows\Desktop\Nova pasta (3)\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe
+C:\Users\Windows\Desktop\Nova pasta (3)\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.pdb
+C:\Users\Windows\Desktop\Nova pasta (3)\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\Nova pasta (3)\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.exe
+C:\Users\Windows\Desktop\Nova pasta (3)\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.pdb
+C:\Users\lucas\Desktop\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe.config
+C:\Users\lucas\Desktop\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe
+C:\Users\lucas\Desktop\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.pdb
+C:\Users\lucas\Desktop\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Desktop\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.exe
+C:\Users\lucas\Desktop\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.pdb
+C:\Users\Windows\Desktop\final\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe.config
+C:\Users\Windows\Desktop\final\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe
+C:\Users\Windows\Desktop\final\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.pdb
+C:\Users\Windows\Desktop\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csprojResolveAssemblyReference.cache
+C:\Users\Windows\Desktop\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.exe
+C:\Users\Windows\Desktop\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.pdb
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe.config
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.exe
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\bin\Debug\AnalisadorSintatico.pdb
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csprojAssemblyReference.cache
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.exe
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.pdb
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.Form1.resources
+C:\Users\Henrique\Desktop\Trabalho Compiladores\final\AnalisadorSintatico\AnalisadorSintatico\obj\Debug\AnalisadorSintatico.csproj.GenerateResource.cache

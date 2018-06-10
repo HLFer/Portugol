@@ -1,0 +1,10 @@
+Label 0: +, 2, 2, t1
+Label 1: =, b, t1
+Label 2: +, a, b, t2
+Label 3: =, c, t2
+Label 4: +, c, b, t3
+Label 5: =, a, t3
+Label 6: /, f, 2, t4
+Label 7: =, f, t4
+Label 8: LEIA,  c
+Label 9: IMPRIMA,  c
